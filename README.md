@@ -11,11 +11,7 @@ My journey in Information Technology has led me to develop a passion for CyberSe
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Programming in Python and Data Capturing          | <a href="https://github.com/PracticalAsian/Key-Logger/tree/main">Key Logger</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Traffic Monitoring and  | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 
