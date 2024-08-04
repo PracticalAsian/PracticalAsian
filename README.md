@@ -11,7 +11,7 @@ My journey in Information Technology has led me to develop a passion for CyberSe
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Programming in Python and Data Capturing          | <a href="https://github.com/PracticalAsian/Key-Logger/tree/main">Key Logger</a>|
-| Network Traffic Monitoring and  | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and  | <a href="https://github.com/PracticalAsian/Packet-Sniffer">Packet Sniffer</a>|
 
 ## Tools
 
@@ -43,4 +43,4 @@ My journey in Information Technology has led me to develop a passion for CyberSe
 
 ## Projects
 - <a href="https://github.com/PracticalAsian/Key-Logger/tree/main">Key Logger</a>
-- SOC Automation Project
+- <a href="https://github.com/PracticalAsian/Packet-Sniffer">Packet Sniffer</a>
