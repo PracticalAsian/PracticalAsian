@@ -13,6 +13,7 @@ My journey in Information Technology has led me to develop a passion for CyberSe
 | Programming in Python and Data Capturing          | <a href="https://github.com/PracticalAsian/Key-Logger/tree/main">Keylogger</a>|
 | Network Traffic Monitoring   | <a href="https://github.com/PracticalAsian/Packet-Sniffer">Packet Sniffer</a>|
 | Malware Detection in Files  | <a href="https://github.com/PracticalAsian/Virus-Tool">Virus Tool</a>|
+| How to Use Splunk  | <a href="https://github.com/PracticalAsian/Virus-Tool">Splunk Example</a>|
 
 ## Tools
 
@@ -41,5 +42,6 @@ My journey in Information Technology has led me to develop a passion for CyberSe
 - <a href="https://github.com/PracticalAsian/Key-Logger/tree/main">Keylogger</a>
 - <a href="https://github.com/PracticalAsian/Packet-Sniffer">Packet Sniffer</a>
 - <a href="https://github.com/PracticalAsian/Virus-Tool">Virus Tool</a>
+- <a href="https://github.com/PracticalAsian/Virus-Tool">Splunk Example</a>
 
 
